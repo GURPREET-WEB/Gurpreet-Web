@@ -1,29 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
+<h3 align="center">Ph.D. Research Scholar at IIT Hyderabad</h3>
+<img align="right" alt = "Coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurpreet-web&label=Profile%20views&color=0e75b6&style=flat" alt="gurpreet-web" /> </p>
 
-<!--
-**GURPREET-WEB/Gurpreet-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Deep learning, Federated learning, and networking.**
 
-- 🔭 I am a Ph.D. research Scholar at IIT Hyderabad. My research area includes Network Security, IoT, and Machine learning.
-- 🌱 I’m currently learning Federated learning to make a distributed and intelligent Intrusion detection model to secure next generation IoT networks.
-- 👯 I’m looking to collaborate on the researchers who are working in my field.
-- 🤔 I’m looking for help with Federated learning for designing a robust Intrusion detection model
-- 💬 Ask me anything about network security and I will be happy to help you out.
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like yoga and asanas, and occasionally I even practice at night after dinner.
+- ⚡ Fun fact **I like yoga and asanas, and occasionally I even practice at night after dinner.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/gurpreet-singh-3772b41b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gurpreet-singh-3772b41b0" height="30" width="40" /></a>
+<a href="https://instagram.com/gurpreetsingh179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurpreetsingh179" height="30" width="40" /></a>
+</p>
 
-##Background
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-I received my Bachelor of Engineering (B.E.) in Mechanical Engineering from Sant Longowal Institute of Engineering and Technology (SLIET), Sangrur, Punjab, India, in 2019 and the Mtech in Mechanical engineering (specializing in Manufacturing systems engineering) in 2021 from the same university.
-I am a joint doctorate candidate doing my Ph.D. from IIT Hyderabad (Interdisciplinary Department), India, and Deakin University, Australia. My research interests include Network Security, Next generation networks, Deep learning, the Internet of Things, and Intrusion detection system.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurpreet-web&show_icons=true&locale=en&layout=compact" alt="gurpreet-web" /></p>
 
-##Contact me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurpreet-web&show_icons=true&locale=en" alt="gurpreet-web" /></p>
 
-To reach me, Please contact me on LinkedIn
-www.linkedin.com/in/gurpreet-singh-3772b41b0
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreet-web&" alt="gurpreet-web" /></p>
