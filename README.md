@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep learning, Federated learning, and networking.**
 
-- ⚡ Fun fact **I like yoga and asanas, and occasionally I even practice at night after dinner.**
+<!-- - ⚡ Fun fact **I like yoga and asanas, and occasionally I even practice at night after dinner.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
